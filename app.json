@@ -2,6 +2,9 @@
   "name": "flashcard",
   "displayName": "flashcard",
   "expo": {
+    "android": {
+      "useNextNotificationsApi": true
+    },
     "name": "flashcard",
     "slug": "flashcard",
     "version": "1.0.0",
